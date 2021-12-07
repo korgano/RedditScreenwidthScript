@@ -20,3 +20,4 @@ function addGlobalStyle(css) {
 
 addGlobalStyle('._31N0dvxfpsO6Ur5AKx4O5d { max-width: 90vw !important; }');
 addGlobalStyle('._1OVBBWLtHoSPfGCRaPzpTf._2udhMC-jldHp_EpAuBeSR1 { max-width: 90vw !important; }');
+addGlobalStyle('._1r4smTyOEZFO91uFIdWW6T.aUM8DQ_Nz5wL0EJc_wte6._2L2graYYrzv3d29vpczps_ { width: 99% !important; }');
